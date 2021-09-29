@@ -4,6 +4,9 @@ console.log('testando')
 
 // console.log(idade)
 
+<<
+<<
+<< < HEAD
 // ctrl k c = comenta
 // ctrl k u = descomenta
 // second commit
@@ -19,4 +22,12 @@ console.log(listaDeDestinos)
 listaDeDestinos.push('teste4')
 console.log(listaDeDestinos)
 console.log(listaDeDestinos)
-console.log(listaDeDestinos)
+console.log(listaDeDestinos) ===
+    ===
+    =
+
+    // second commit
+    // third commmmmmit
+    >>>
+    >>>
+    > 98698e9 bde8bab0e438a8e87eecceac2b460ab7b
