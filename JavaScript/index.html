@@ -10,13 +10,13 @@
 
 <body>
     <div id='app'>
-        {{ message }}
+        {{ data.message }}
     </div>
-    <p>Testando um parágrafo!</p>
+    <!--<p>Testando um parágrafo!</p>-->
     <script>
         new Vue({
-            el: '#app',
-            data: {
+            el: 'app',
+            data() {
                 message: 'testando o vue.js!'
             }
         });
