@@ -5,7 +5,6 @@
       <h1>My Music</h1>
     </header>
     <main>
-
       <section class='player'>
         <h2 class='song-title'>{{current.title}} - <span> {{current.artist}} </span> </h2>
         <div class='control'>
@@ -21,7 +20,7 @@
         <button v-for='song in songs' :key='song.src' @click='play(song)' 
         :class="(song.src == current.src) ? 'song playing' :'song' "> {{song.title}} - {{song.artist}}
         </button>
-      </section>
+      </section> 
     </main>
   </div>
 
@@ -60,19 +59,30 @@ export default {
       }
 
       this.player.play();
+      this.player.addEventListener('ended',function(){
+        this.index++;
+        if (this.index >this.songs.length -1) {
+          this.index = 0;
+        }
+        this.current =this.songs[this.index];
+        this.play(this.current);
+      }.bind(this));
+
       this.isPlaying =true;
     },
+
     pause () {
       this.player.pause();
       this.isPlaying = false;
 
     },
+
     next(){
       this.index++;
-      if (this.index >this.songs.leght -1) {
+      if (this.index >this.songs.length -1) {
         this.index = 0;
       }
-      this.current =this.sonsgs[this.index];
+      this.current =this.songs[this.index];
       this.play(this.current);
 
     },
@@ -80,8 +90,9 @@ export default {
     prev (){
       this.index--;
       if (this.index < 0) {
-        this.index = this.sons.lenght-1;
-      this.current =this.sonsgs[this.index];
+        this.index = this.songs.length-1;
+      }
+      this.current =this.songs[this.index];
       this.play(this.current);
     }
 
