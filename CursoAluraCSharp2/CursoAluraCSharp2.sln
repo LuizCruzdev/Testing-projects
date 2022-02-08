@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAluraCSharp2", "CursoAluraCSharp2\CursoAluraCSharp2.csproj", "{02733F68-6817-43DF-AA1F-C78BA8F1E12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02733F68-6817-43DF-AA1F-C78BA8F1E12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02733F68-6817-43DF-AA1F-C78BA8F1E12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02733F68-6817-43DF-AA1F-C78BA8F1E12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02733F68-6817-43DF-AA1F-C78BA8F1E12D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FA82E8-966D-420A-90F9-BF435C3B4330}
+	EndGlobalSection
+EndGlobal

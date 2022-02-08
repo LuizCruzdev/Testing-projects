@@ -1,0 +1,7 @@
+D:\Programming\ConsoleApp1\aula 5 condicionais\bin\Debug\aula 5 condicionais.exe.config
+D:\Programming\ConsoleApp1\aula 5 condicionais\bin\Debug\aula 5 condicionais.exe
+D:\Programming\ConsoleApp1\aula 5 condicionais\bin\Debug\aula 5 condicionais.pdb
+D:\Programming\ConsoleApp1\aula 5 condicionais\obj\Debug\aula 5 condicionais.csproj.SuggestedBindingRedirects.cache
+D:\Programming\ConsoleApp1\aula 5 condicionais\obj\Debug\aula 5 condicionais.csproj.CoreCompileInputs.cache
+D:\Programming\ConsoleApp1\aula 5 condicionais\obj\Debug\aula 5 condicionais.exe
+D:\Programming\ConsoleApp1\aula 5 condicionais\obj\Debug\aula 5 condicionais.pdb

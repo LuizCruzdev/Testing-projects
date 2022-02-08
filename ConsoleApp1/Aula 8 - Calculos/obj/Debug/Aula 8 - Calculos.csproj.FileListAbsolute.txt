@@ -1,0 +1,8 @@
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\bin\Debug\Aula 8 - Calculos.exe.config
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\bin\Debug\Aula 8 - Calculos.exe
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\bin\Debug\Aula 8 - Calculos.pdb
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\obj\Debug\Aula 8 - Calculos.csproj.AssemblyReference.cache
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\obj\Debug\Aula 8 - Calculos.csproj.SuggestedBindingRedirects.cache
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\obj\Debug\Aula 8 - Calculos.csproj.CoreCompileInputs.cache
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\obj\Debug\Aula 8 - Calculos.exe
+D:\Programming\ConsoleApp1\Aula 8 - Calculos\obj\Debug\Aula 8 - Calculos.pdb

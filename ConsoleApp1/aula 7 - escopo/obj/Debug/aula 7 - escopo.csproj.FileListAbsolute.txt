@@ -1,0 +1,7 @@
+D:\Programming\ConsoleApp1\aula 7 - escopo\bin\Debug\aula 7 - escopo.exe.config
+D:\Programming\ConsoleApp1\aula 7 - escopo\bin\Debug\aula 7 - escopo.exe
+D:\Programming\ConsoleApp1\aula 7 - escopo\bin\Debug\aula 7 - escopo.pdb
+D:\Programming\ConsoleApp1\aula 7 - escopo\obj\Debug\aula 7 - escopo.csproj.SuggestedBindingRedirects.cache
+D:\Programming\ConsoleApp1\aula 7 - escopo\obj\Debug\aula 7 - escopo.csproj.CoreCompileInputs.cache
+D:\Programming\ConsoleApp1\aula 7 - escopo\obj\Debug\aula 7 - escopo.exe
+D:\Programming\ConsoleApp1\aula 7 - escopo\obj\Debug\aula 7 - escopo.pdb

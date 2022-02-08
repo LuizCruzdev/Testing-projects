@@ -1,0 +1,8 @@
+D:\Programming\cSharp - classes\07 - Bytebank\bin\Debug\07 - Bytebank.exe.config
+D:\Programming\cSharp - classes\07 - Bytebank\bin\Debug\07 - Bytebank.exe
+D:\Programming\cSharp - classes\07 - Bytebank\bin\Debug\07 - Bytebank.pdb
+D:\Programming\cSharp - classes\07 - Bytebank\obj\Debug\07 Bytebank.csproj.AssemblyReference.cache
+D:\Programming\cSharp - classes\07 - Bytebank\obj\Debug\07 Bytebank.csproj.SuggestedBindingRedirects.cache
+D:\Programming\cSharp - classes\07 - Bytebank\obj\Debug\07 Bytebank.csproj.CoreCompileInputs.cache
+D:\Programming\cSharp - classes\07 - Bytebank\obj\Debug\07 - Bytebank.exe
+D:\Programming\cSharp - classes\07 - Bytebank\obj\Debug\07 - Bytebank.pdb

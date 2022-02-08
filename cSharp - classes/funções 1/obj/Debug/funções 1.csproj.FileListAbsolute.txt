@@ -1,0 +1,8 @@
+D:\Programming\cSharp - classes\funções 1\bin\Debug\funções 1.exe.config
+D:\Programming\cSharp - classes\funções 1\bin\Debug\funções 1.exe
+D:\Programming\cSharp - classes\funções 1\bin\Debug\funções 1.pdb
+D:\Programming\cSharp - classes\funções 1\obj\Debug\funções 1.csproj.AssemblyReference.cache
+D:\Programming\cSharp - classes\funções 1\obj\Debug\funções 1.csproj.SuggestedBindingRedirects.cache
+D:\Programming\cSharp - classes\funções 1\obj\Debug\funções 1.csproj.CoreCompileInputs.cache
+D:\Programming\cSharp - classes\funções 1\obj\Debug\funções 1.exe
+D:\Programming\cSharp - classes\funções 1\obj\Debug\funções 1.pdb

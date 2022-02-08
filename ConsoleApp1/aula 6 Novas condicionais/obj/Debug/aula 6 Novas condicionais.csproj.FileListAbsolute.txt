@@ -1,0 +1,7 @@
+D:\Programming\ConsoleApp1\aula 6 Novas condicionais\bin\Debug\aula 6 Novas condicionais.exe.config
+D:\Programming\ConsoleApp1\aula 6 Novas condicionais\bin\Debug\aula 6 Novas condicionais.exe
+D:\Programming\ConsoleApp1\aula 6 Novas condicionais\bin\Debug\aula 6 Novas condicionais.pdb
+D:\Programming\ConsoleApp1\aula 6 Novas condicionais\obj\Debug\aula 6 Novas condicionais.csproj.SuggestedBindingRedirects.cache
+D:\Programming\ConsoleApp1\aula 6 Novas condicionais\obj\Debug\aula 6 Novas condicionais.csproj.CoreCompileInputs.cache
+D:\Programming\ConsoleApp1\aula 6 Novas condicionais\obj\Debug\aula 6 Novas condicionais.exe
+D:\Programming\ConsoleApp1\aula 6 Novas condicionais\obj\Debug\aula 6 Novas condicionais.pdb

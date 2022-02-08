@@ -1,0 +1,15 @@
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\bin\Debug\net6.0\cursoAluraCSharp.exe
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\bin\Debug\net6.0\cursoAluraCSharp.deps.json
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\bin\Debug\net6.0\cursoAluraCSharp.runtimeconfig.json
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\bin\Debug\net6.0\cursoAluraCSharp.dll
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\bin\Debug\net6.0\ref\cursoAluraCSharp.dll
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\bin\Debug\net6.0\cursoAluraCSharp.pdb
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.csproj.AssemblyReference.cache
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.AssemblyInfoInputs.cache
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.AssemblyInfo.cs
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.csproj.CoreCompileInputs.cache
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.dll
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\ref\cursoAluraCSharp.dll
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.pdb
+D:\Programming\cursoAluraCSharp\cursoAluraCSharp\obj\Debug\net6.0\cursoAluraCSharp.genruntimeconfig.cache

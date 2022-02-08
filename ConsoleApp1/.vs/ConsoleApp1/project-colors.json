@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a36275f8-3c8e-4d66-accb-cd126f5979f5": {
+      "ProjectGuid": "a36275f8-3c8e-4d66-accb-cd126f5979f5",
+      "DisplayName": "aula 3",
+      "ColorIndex": 0
+    },
+    "0199567e-e855-4e3c-879f-7235c0685534": {
+      "ProjectGuid": "0199567e-e855-4e3c-879f-7235c0685534",
+      "DisplayName": "aula 2",
+      "ColorIndex": 1
+    },
+    "55f04fc9-cc12-4611-8544-2f7f886b037e": {
+      "ProjectGuid": "55f04fc9-cc12-4611-8544-2f7f886b037e",
+      "DisplayName": "aula 4",
+      "ColorIndex": 2
+    },
+    "6bf69224-aae2-48ce-a908-ce3aea4a2ea3": {
+      "ProjectGuid": "6bf69224-aae2-48ce-a908-ce3aea4a2ea3",
+      "DisplayName": "aula 5 condicionais",
+      "ColorIndex": 3
+    },
+    "6d9cd1ea-2304-4f82-bfb6-aed969261357": {
+      "ProjectGuid": "6d9cd1ea-2304-4f82-bfb6-aed969261357",
+      "DisplayName": "aula 6 Novas condicionais",
+      "ColorIndex": 4
+    },
+    "21a7a021-f707-49b2-827a-97cec3c444af": {
+      "ProjectGuid": "21a7a021-f707-49b2-827a-97cec3c444af",
+      "DisplayName": "aula 7 - escopo",
+      "ColorIndex": 5
+    },
+    "f5acd5c9-482a-418f-a9df-d6f6745ae8ca": {
+      "ProjectGuid": "f5acd5c9-482a-418f-a9df-d6f6745ae8ca",
+      "DisplayName": "Aula 8 - Calculos",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

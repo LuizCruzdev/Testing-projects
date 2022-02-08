@@ -1,0 +1,8 @@
+D:\Programming\ConsoleApp1\aula 4\bin\Debug\aula 4.exe.config
+D:\Programming\ConsoleApp1\aula 4\bin\Debug\aula 4.exe
+D:\Programming\ConsoleApp1\aula 4\bin\Debug\aula 4.pdb
+D:\Programming\ConsoleApp1\aula 4\obj\Debug\aula 4.csproj.SuggestedBindingRedirects.cache
+D:\Programming\ConsoleApp1\aula 4\obj\Debug\aula 4.csproj.CoreCompileInputs.cache
+D:\Programming\ConsoleApp1\aula 4\obj\Debug\aula 4.exe
+D:\Programming\ConsoleApp1\aula 4\obj\Debug\aula 4.pdb
+D:\Programming\ConsoleApp1\aula 4\obj\Debug\aula 4.csproj.AssemblyReference.cache

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b340b7e1-2759-406f-b4ff-603cd73fb196": {
+      "ProjectGuid": "b340b7e1-2759-406f-b4ff-603cd73fb196",
+      "DisplayName": "cSharp - classes",
+      "ColorIndex": 0
+    },
+    "2291ebdd-5fb7-4cf5-87e1-6826131f8bad": {
+      "ProjectGuid": "2291ebdd-5fb7-4cf5-87e1-6826131f8bad",
+      "DisplayName": "classes 2",
+      "ColorIndex": 1
+    },
+    "95eafd6b-c8e2-4e8d-9145-f890ccc7d982": {
+      "ProjectGuid": "95eafd6b-c8e2-4e8d-9145-f890ccc7d982",
+      "DisplayName": "funções 1",
+      "ColorIndex": 2
+    },
+    "64851233-5b7a-4a04-96b0-cb76b9b8d54e": {
+      "ProjectGuid": "64851233-5b7a-4a04-96b0-cb76b9b8d54e",
+      "DisplayName": "clientes",
+      "ColorIndex": 3
+    },
+    "b611a198-60e4-4c5a-892b-588116f20690": {
+      "ProjectGuid": "b611a198-60e4-4c5a-892b-588116f20690",
+      "DisplayName": "Programa",
+      "ColorIndex": 4
+    },
+    "952345e5-f086-4dad-bd48-5f93e843682a": {
+      "ProjectGuid": "952345e5-f086-4dad-bd48-5f93e843682a",
+      "DisplayName": "Bytebank",
+      "ColorIndex": 5
+    },
+    "a5853a53-e84c-4647-a8c3-1c97e511e34c": {
+      "ProjectGuid": "a5853a53-e84c-4647-a8c3-1c97e511e34c",
+      "DisplayName": "06 Bytebank",
+      "ColorIndex": 6
+    },
+    "6cd59b7e-6043-427a-8503-58a7952f0ae0": {
+      "ProjectGuid": "6cd59b7e-6043-427a-8503-58a7952f0ae0",
+      "DisplayName": "07 Bytebank",
+      "ColorIndex": 7
+    },
+    "120bca43-5d00-478b-b1cf-eb36768e360c": {
+      "ProjectGuid": "120bca43-5d00-478b-b1cf-eb36768e360c",
+      "DisplayName": "08 ByteBank",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

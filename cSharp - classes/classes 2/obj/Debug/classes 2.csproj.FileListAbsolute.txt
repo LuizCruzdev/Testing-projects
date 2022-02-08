@@ -1,0 +1,8 @@
+D:\Programming\cSharp - classes\classes 2\bin\Debug\classes 2.exe.config
+D:\Programming\cSharp - classes\classes 2\bin\Debug\classes 2.exe
+D:\Programming\cSharp - classes\classes 2\bin\Debug\classes 2.pdb
+D:\Programming\cSharp - classes\classes 2\obj\Debug\classes 2.csproj.AssemblyReference.cache
+D:\Programming\cSharp - classes\classes 2\obj\Debug\classes 2.csproj.SuggestedBindingRedirects.cache
+D:\Programming\cSharp - classes\classes 2\obj\Debug\classes 2.csproj.CoreCompileInputs.cache
+D:\Programming\cSharp - classes\classes 2\obj\Debug\classes 2.exe
+D:\Programming\cSharp - classes\classes 2\obj\Debug\classes 2.pdb
